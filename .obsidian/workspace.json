@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Template.md",
+                "file": "测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work Template"
+              "title": "测试"
             }
           }
         ],
@@ -196,6 +196,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "226ffa2e7bb657fc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -205,7 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,10 +233,10 @@
   },
   "active": "af149f7245a55098",
   "lastOpenFiles": [
+    "Work Template.md",
     "亚马逊运营/广告基础/商品推广（SP）投放设置与策略拆解.md",
     "亚马逊运营/广告基础/广告启动准备工作.md",
     "亚马逊运营/广告基础/广告预算设定.md",
-    "Work Template.md",
     "随机/革命尚未成功，同志们仍需努力/随记.md",
     "工作清单",
     "随机/革命尚未成功，同志们仍需努力/未命名.md",
