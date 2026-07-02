@@ -4,5 +4,7 @@
   "obsidian-dice-roller",
   "obsidian-tasks-plugin",
   "editing-toolbar",
-  "mindelixir-mindmap"
+  "mindelixir-mindmap",
+  "dataview",
+  "templater-obsidian"
 ]
