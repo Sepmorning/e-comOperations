@@ -6,5 +6,6 @@
   "editing-toolbar",
   "mindelixir-mindmap",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-reminder-plugin"
 ]
