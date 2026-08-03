@@ -90,6 +90,13 @@
       "resultText": "1d6 + 2d4\n[3] + [2, 4]",
       "timestamp": 1781752311685,
       "id": "WEkhxa2EI8il"
+    },
+    {
+      "result": "3",
+      "original": "1d8",
+      "resultText": "1d8\n[3]",
+      "timestamp": 1785201366997,
+      "id": "YNojM_XFMyTE"
     }
   ]
 }
