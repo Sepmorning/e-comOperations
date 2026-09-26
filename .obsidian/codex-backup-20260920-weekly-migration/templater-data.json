@@ -31,7 +31,9 @@
   "enabled_templates_hotkeys": [
     ""
   ],
-  "startup_templates": [],
+  "startup_templates": [
+    "Template/Work Template.md"
+  ],
   "intellisense_render": 1,
   "ignore_folders_on_creation": [
     {

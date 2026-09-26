@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "weekly": {
+    "format": "YYYY/YYYY-MM/GGGG-[W]WW",
+    "template": "Template/工作日志/每周工作日志",
+    "folder": "工作日志",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY/YYYY-MM/YYYY-MM",
+    "template": "Template/工作日志/每月工作总结",
+    "folder": "工作日志",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "YYYY/YYYY",
+    "template": "Template/工作日志/每年工作总结",
+    "folder": "工作日志",
+    "enabled": true
+  }
+}

@@ -7,5 +7,7 @@
   "mindelixir-mindmap",
   "dataview",
   "templater-obsidian",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "periodic-notes",
+  "obsidian-paste-image-rename"
 ]
